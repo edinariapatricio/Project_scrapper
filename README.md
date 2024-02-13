@@ -1,4 +1,4 @@
-# Shoppify Scrapping Bot
+# E-commerce Scrapping Bot
 
 Generic Bot to scrap all products from a Shopify or e-commerce website
 
