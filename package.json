@@ -1,0 +1,31 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node product_scrapper.js",
+    "transform": "node transform.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@samirrayani/metascraper-shopping": "^1.4.22",
+    "browserless": "^9.6.4",
+    "dotenv": "^14.2.0",
+    "html-get": "^2.9.21",
+    "metascraper": "^5.30.1",
+    "metascraper-author": "^5.29.15",
+    "metascraper-clearbit": "^5.30.1",
+    "metascraper-date": "^5.29.15",
+    "metascraper-description": "^5.29.15",
+    "metascraper-image": "^5.29.15",
+    "metascraper-logo": "^5.29.15",
+    "metascraper-publisher": "^5.29.15",
+    "metascraper-title": "^5.29.15",
+    "metascraper-url": "^5.29.15",
+    "puppeteer": "^16.1.1",
+    "sitemapper": "^3.2.6"
+  }
+}
